@@ -1,0 +1,53 @@
+.glance-main-wrapper {
+    background-color: #F1F5F8;
+
+    .custom-sub-wrapper {
+        width: 80%;
+        margin: auto;
+
+        .sub-heading {
+            color: #4519B4;
+            font-size: 1.2em;
+            font-weight: 500;
+        }
+
+        .heading {
+            font-size: 3em;
+        }
+    }
+
+    .glance-content-left {
+        padding: 5em;
+    }
+
+    .glance-timeline {
+        padding: 5em;
+
+        .custom-square {
+            height: 11em;
+            width: 11em;
+            border: 1px solid black;
+            padding: 1em;
+            margin-bottom: 5em;
+
+            .box-heading {
+                font-size: 3em;
+                font-weight: 700;
+            }
+
+            .box-info {
+                font-size: 1.3em;
+            }
+        }
+
+        .grey-box {
+            background-color: #232B40;
+            color: white;
+        }
+
+        .blue-box {
+            background-color: #4519B4;
+            color: white;
+        }
+    }
+}
